@@ -1,0 +1,16 @@
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\bin\Debug\net5.0\Fight.exe
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\bin\Debug\net5.0\Fight.deps.json
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\bin\Debug\net5.0\Fight.runtimeconfig.json
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\bin\Debug\net5.0\Fight.runtimeconfig.dev.json
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\bin\Debug\net5.0\Fight.dll
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\bin\Debug\net5.0\ref\Fight.dll
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\bin\Debug\net5.0\Fight.pdb
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.csprojAssemblyReference.cache
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.AssemblyInfoInputs.cache
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.AssemblyInfo.cs
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.csproj.CoreCompileInputs.cache
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.dll
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\ref\Fight.dll
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.pdb
+C:\Users\sofia.sorensen\Documents\GitHub\Komplettering_Prog2\Fight\obj\Debug\net5.0\Fight.genruntimeconfig.cache
